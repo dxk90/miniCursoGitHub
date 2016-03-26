@@ -1,2 +1,3 @@
 # miniCursoGitHub
-Mini curso em sv.
+
+Mini curso ministrado na cidade de são vicente hoje
